@@ -448,10 +448,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Kathitjoshi/BrowserCache
-/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Kathitjoshi/BrowserCache
-  pulls)
+- **Issues**: [GitHub Issues](https://github.com/Kathitjoshi/BrowserCache/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Kathitjoshi/BrowserCache/pulls)
 - **Email**: kathitjoshi@gmail.com
 
 ---
